@@ -26,8 +26,7 @@ Figure : LinguaVox Architecture
 ### Sign to Text
 In the first module, we wanted to detect sign language and then capture the sign language portrayed by the user and convert it to text which other users can understand.
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%203.png?raw=true)
-
-        Figure : Sign Language To Text Workflow
+Figure : Sign Language To Text Workflow
 
 To achieve this, the flow we have followed is we identified characters, words, and sentences from video input; on top of that, we also included some word suggestions for the signs.
 
@@ -35,8 +34,38 @@ To achieve this, the flow we have followed is we identified characters, words, a
 We have discussed the translation of sign language to text, and in our product, we facilitate the translation vice versa, i.e., text to sign language. We will be translating the text in English to ASL and displaying the text from the user as a sign language video. The below flowchart describes the flow of text to sign language translation.
 
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%2010.png?raw=true)
-
 Figure: Text to Sign Language Workflow
+
+## Results
+We developed a user-friendly UI available on the web and standalone desktop applications as a final deliverable. Users can download the two applications one time and use them without having internet access. The below screenshots illustrate our web application and functional overview of it.
+
+![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%2013.png?raw=true)
+Figure: LinguaVox Functionality Description
+The above image shows how the website looks like. When a user lands on the website, one has two options: Text to Sign and Sign to Text. Upon clicking on either a respective pop-up will open and take input as text or sign and show the predicted result.
+Once a user clicks on the Sign Language to Text, we get a pop-up that displays user images to portray the ASL and get their desired results.
+If the user wants to use our Text to Sign Language module, once they click on the hyperlink given on the website, the below pop-up opens up. The user can type down their desired text and receive their result played in a video format.
+
+## Conclusions and Future Work
+We hope to improve accuracy even in complicated backgrounds by experimenting with various background removal methods.  We're also considering enhancing the Pre-Processing to better predict gestures in low-light situations. The current project only works with ASL; given the correct data and training, it might be modified to function with other native sign languages. Although this project uses a fingerspelling translator, sign languages are also spoken in context, with each gesture representing an item or a sentence. As a result, detecting this type of contextual signing would necessitate more processing and natural language processing (NLP).
+Improvements can be made to this project by creating a mobile application that everyone can download and use on their mobile phones. We can also improve the model performance and train it on other sign languages such as British Sign Language, Chinese Sign Language, etc. Our subject project's primary goal is to ensure that no one should have a communication barrier. We want to eliminate that, and by using our product, the specially-abled people can freely express their views and opinions to others.
+
+
+## References
+Bhatia, R. (2018). Neural Networks Do Not Work Like Human Brains – Let's Debunk The 
+Myth. Analytics India.
+https://analyticsindiamag.com/neural-networks-not-work-like-human-brains-lets-debunk-myth/
+Byeongkeun K., Subarna T., Truong Q. (2015). Real-Time Sign Language Fingerspelling Recognition Using Convolutional Neural Networks From Depth Map – 3rd IAPR Asian Conference on Pattern Recognition (ACPR).
+N. Mukai, N. Harada and Y. Chang. (2017). Japanese Fingerspelling Recognition Based on Classification Tree and Machine Learning. Kyoto, Japan, 2017, pp. 19-24.
+Pierson, L. (2019). Python for Data Science Essential Training Part 1 [MOOC]. LinkedIn Learning.
+https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1?u=56968457
+Pierson, L. (2019). Python for Data Science Essential Training Part 2 [MOOC]. LinkedIn Learning.
+https://www.linkedin.com/learning/python-for-data-science-essential-training-part-2?u=56968457
+Pigou L., Dieleman S., Kindermans PJ., Schrauwen B. (2015). Sign Language Recognition Using Convolutional Neural Networks. Computer Vision - ECCV 2014 Workshops. ECCV 2014. Lecture Notes in Computer Science, vol 8925.
+![image](https://user-images.githubusercontent.com/72609927/146634486-d7884255-1b84-4b29-9064-55fd7fdca348.png)
+
+
+
+
 
 
 
