@@ -61,7 +61,7 @@ https://www.linkedin.com/learning/python-for-data-science-essential-training-par
 Pierson, L. (2019). Python for Data Science Essential Training Part 2 [MOOC]. LinkedIn Learning.
 https://www.linkedin.com/learning/python-for-data-science-essential-training-part-2?u=56968457
 Pigou L., Dieleman S., Kindermans PJ., Schrauwen B. (2015). Sign Language Recognition Using Convolutional Neural Networks. Computer Vision - ECCV 2014 Workshops. ECCV 2014. Lecture Notes in Computer Science, vol 8925.
-![image](https://user-images.githubusercontent.com/72609927/146634486-d7884255-1b84-4b29-9064-55fd7fdca348.png)
+
 
 
 
