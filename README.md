@@ -13,3 +13,11 @@ It is then sent via a classifier in our technique, which predicts the class of t
 
 Figure 1: ASL Letters
 
+## Methods
+We wanted to implement a product that would be useful to everyone who wants to communicate with specially-abled people. We wanted to create an application that will integrate Sign Language to Text and Text to Sign Language Detection. So, we have divided our project into two different modules – 
+•	Sign Language to Text 
+•	Text to Sign Language
+These two modules are an integral part of our project, and they are available to users on the landing page of our website itself. We have also represented our LinguaVox architecture below.
+
+![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%202.jpg?raw=true)
+Figure 2: LinguaVox Architecture
