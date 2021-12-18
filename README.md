@@ -19,5 +19,5 @@ We wanted to implement a product that would be useful to everyone who wants to c
 •	Text to Sign Language
 These two modules are an integral part of our project, and they are available to users on the landing page of our website itself. We have also represented our LinguaVox architecture below.
 
-![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%202.jpg?raw=true)
+![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%202.png?raw=true)
 Figure 2: LinguaVox Architecture
