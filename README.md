@@ -33,7 +33,11 @@ We wanted to implement a product that would be useful to everyone who wants to c
 
 These two modules are an integral part of our project, and they are available to users on the landing page of our website itself. We have also represented our LinguaVox architecture below.
 
+
+
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%202.png?raw=true)
+
+
 
 Figure : LinguaVox Architecture
 
@@ -43,7 +47,10 @@ Figure : LinguaVox Architecture
 
 
 In the first module, we wanted to detect sign language and then capture the sign language portrayed by the user and convert it to text which other users can understand.
+
+
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%203.png?raw=true)
+
 
 Figure : Sign Language To Text Workflow
 
@@ -56,7 +63,9 @@ To achieve this, the flow we have followed is we identified characters, words, a
 
 We have discussed the translation of sign language to text, and in our product, we facilitate the translation vice versa, i.e., text to sign language. We will be translating the text in English to ASL and displaying the text from the user as a sign language video. The below flowchart describes the flow of text to sign language translation.
 
+
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%2010.png?raw=true)
+
 
 Figure: Text to Sign Language Workflow
 
@@ -65,6 +74,7 @@ Figure: Text to Sign Language Workflow
 ## Results
 
 We developed a user-friendly UI available on the web and standalone desktop applications as a final deliverable. Users can download the two applications one time and use them without having internet access. The below screenshots illustrate our web application and functional overview of it.
+
 
 
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%2013.png?raw=true)
