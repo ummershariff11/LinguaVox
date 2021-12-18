@@ -1,4 +1,4 @@
-##  Due to storage crunch in github, you can access all the files including datasets and code on the below path
+##  Due to storage crunch in github, you can access all the rest of files including datasets and code on the below path
 
 https://mylambton-my.sharepoint.com/personal/c0796681_mylambton_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fc0796681%5Fmylambton%5Fca%2FDocuments%2FLinguaVox%5FInsight%5FInspectors
 
