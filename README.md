@@ -21,8 +21,8 @@ Figure : ASL Letters
 
 We wanted to implement a product that would be useful to everyone who wants to communicate with specially-abled people. We wanted to create an application that will integrate Sign Language to Text and Text to Sign Language Detection. So, we have divided our project into two different modules – 
 
-# Sign Language to Text 
-# Text to Sign Language
+1: Sign Language to Text 
+2: Text to Sign Language
 
 These two modules are an integral part of our project, and they are available to users on the landing page of our website itself. We have also represented our LinguaVox architecture below.
 
@@ -32,7 +32,7 @@ Figure : LinguaVox Architecture
 
 
 
-### Sign to Text
+## Sign to Text
 
 
 In the first module, we wanted to detect sign language and then capture the sign language portrayed by the user and convert it to text which other users can understand.
@@ -45,7 +45,7 @@ To achieve this, the flow we have followed is we identified characters, words, a
 
 
 
-### Text to Sign 
+## Text to Sign 
 
 We have discussed the translation of sign language to text, and in our product, we facilitate the translation vice versa, i.e., text to sign language. We will be translating the text in English to ASL and displaying the text from the user as a sign language video. The below flowchart describes the flow of text to sign language translation.
 
