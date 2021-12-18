@@ -105,5 +105,10 @@ Pigou L., Dieleman S., Kindermans PJ., Schrauwen B. (2015). Sign Language Recogn
 
 
 
-
+## Group Members and Project Collaborators:
+Avinash Ravi: https://github.com/avinash-ravi
+Ankur Rokad: https://github.com/ankurrokad
+Sahista Patel: https://github.com/Sahista-Patel
+Ummer Shariff: https://github.com/ummershariff11
+Vishal Sabarinath: https://github.com/vishal9849
 
