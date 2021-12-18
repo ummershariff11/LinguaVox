@@ -11,7 +11,7 @@ It is then sent via a classifier in our technique, which predicts the class of t
 
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%201.jpg?raw=true)
 
-Figure 1: ASL Letters
+Figure : ASL Letters
 
 ## Methods
 We wanted to implement a product that would be useful to everyone who wants to communicate with specially-abled people. We wanted to create an application that will integrate Sign Language to Text and Text to Sign Language Detection. So, we have divided our project into two different modules – 
@@ -21,4 +21,22 @@ We wanted to implement a product that would be useful to everyone who wants to c
 These two modules are an integral part of our project, and they are available to users on the landing page of our website itself. We have also represented our LinguaVox architecture below.
 
 ![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%202.png?raw=true)
-Figure 2: LinguaVox Architecture
+Figure : LinguaVox Architecture
+
+### Sign to Text
+In the first module, we wanted to detect sign language and then capture the sign language portrayed by the user and convert it to text which other users can understand.
+![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%203.png?raw=true)
+
+        Figure : Sign Language To Text Workflow
+
+To achieve this, the flow we have followed is we identified characters, words, and sentences from video input; on top of that, we also included some word suggestions for the signs.
+
+### Text to Sign 
+We have discussed the translation of sign language to text, and in our product, we facilitate the translation vice versa, i.e., text to sign language. We will be translating the text in English to ASL and displaying the text from the user as a sign language video. The below flowchart describes the flow of text to sign language translation.
+
+![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%2010.png?raw=true)
+
+Figure: Text to Sign Language Workflow
+
+
+
