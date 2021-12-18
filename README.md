@@ -1,9 +1,14 @@
+##  Due to storage crunch in github, you can access all the files including datasets and code on the below path
+
+
+https://mylambton-my.sharepoint.com/personal/c0796681_mylambton_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fc0796681%5Fmylambton%5Fca%2FDocuments%2FLinguaVox%5FInsight%5FInspectors
 
 
 
 ## Abstract 
 
-As we all know, vocally and hearing-impaired people face difficulties in their daily lives to communicate effectively. Because most individuals do not learn sign language and interpreters are few, we developed an application for translating sign language to text and vice versa. The sign language is detected in real-time for fingerspelling-based American sign language using neural networks and translating text to sign language. If the user selects the sign language to text option, the hand is initially passed through a filter. Our method, following which, is passed through a classifier, which predicts the class of the hand motions to show the corresponding letter. When the user selects text to sign language, the text is processed and translated to related sign language videos. For the 26 letters of the alphabet, our method is 95.7 percent accurate.
+As we all know, physically challenged people especially the hearing and speaking have difficulty communicating effectively in their daily lives. We have created a web-based application to translate sign language to text and vice versa because most people do not learn sign language, and interpreters are few. Using neural networks, the sign language for fingerspelling-based American sign language is detected in real-time, and text is translated to sign language. When the user chooses the sign language to text option, the user's hand is first filtered. Following that, our approach is sent via a classifier, which predicts the class of hand motions that will be used to show the appropriate letter. When the user selects text to sign language, the text is processed and translated into appropriate sign language video. Our method is 95.7 percent accurate for the alphabet's 26 letters.
+
 Keywords: American Sign Language, Neural Networks, Artificial Intelligence
 
 ## Introduction
@@ -80,9 +85,7 @@ If the user wants to use our Text to Sign Language module, once they click on th
 ## Conclusions and Future Work
 
 
-We hope to improve accuracy even in complicated backgrounds by experimenting with various background removal methods.  We're also considering enhancing the Pre-Processing to better predict gestures in low-light situations. The current project only works with ASL; given the correct data and training, it might be modified to function with other native sign languages. Although this project uses a fingerspelling translator, sign languages are also spoken in context, with each gesture representing an item or a sentence. As a result, detecting this type of contextual signing would necessitate more processing and natural language processing (NLP).
-Improvements can be made to this project by creating a mobile application that everyone can download and use on their mobile phones. We can also improve the model performance and train it on other sign languages such as British Sign Language, Chinese Sign Language, etc. Our subject project's primary goal is to ensure that no one should have a communication barrier. We want to eliminate that, and by using our product, the specially-abled people can freely express their views and opinions to others.
-
+We intend to increase accuracy even in cluttered backgrounds by experimenting with various background removal approaches. We're also thinking about improving the Pre-Processing to make predicting gestures in low-light conditions much easier. The present work only works with ASL, but that might be extended to work with other native sign languages with the correct data and training. Although fingerspelling translator is used in this project, sign languages are also spoken in context, with each gesture indicating an item or a sentence. As a result, detecting contextual signing would demand further processing and natural language processing (NLP).
 
 
 
