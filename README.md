@@ -9,6 +9,7 @@ ASL is a good contender for the title; hence we will be using it for our project
 It is then sent via a classifier in our technique, which predicts the class of the hand motions to reveal the matching letter. We intend to develop a model that can recognize Fingerspelling-based hand motions and combine them to make a whole word. The gestures that we want to improve are depicted in the image below Figure 1.
  When The text to sign language option is selected, the text is processed and translated into an appropriate sign language video. On the next page, we have a figure that shows the symbolic representation of American Sign Language. 
 
-![alt text](https://github.com/ummershariff11/linguavox/others/Picture 1.jpg?raw=true)
+![alt text](https://github.com/ummershariff11/linguavox/blob/master/others/Picture%201.jpg?raw=true)
+
 Figure 1: ASL Letters
 
